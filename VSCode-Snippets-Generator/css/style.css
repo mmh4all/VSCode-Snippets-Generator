@@ -1,0 +1,24 @@
+      /* On small Screens */
+      @media screen and (max-width: 768px) {
+        #formDiv {
+          flex-direction: column;
+        }
+      }
+
+      .faster-one {
+        font-family: 'Faster One' !important;
+      }
+      .red {
+        color: #eb2f06;
+        font-size: 18px !important;
+      }
+      
+      .yellow {
+        color: #f6b93b;
+        font-size: 18px !important;
+      }
+      
+      .green {
+        color: #78e08f;
+        font-size: 18px !important;
+      }
